@@ -1,39 +1,24 @@
 @font-face {
-  font-family: 'inconsolata';
-  src: url('/assets/18/font/inconsolata-regular.eot');
-  src: url('/assets/18/font/inconsolata-regular.eot?#iefix') format('embedded-opentype'), url('/assets/18/font/inconsolata-regular.woff') format('woff'), url('/assets/18/font/inconsolata-regular.ttf') format('truetype'), url('/assets/18/font/inconsolata-regular.svg#open_sansregular') format('svg');
-  font-weight: normal;
-  font-style: normal;
-}
-@font-face {
-  font-family: 'labelleaurore';
-  src: url('/assets/18/font/labelleaurore.eot');
-  src: url('/assets/18/font/labelleaurore.eot?#iefix') format('embedded-opentype'), url('/assets/18/font/labelleaurore.woff') format('woff'), url('/assets/18/font/labelleaurore.ttf') format('truetype'), url('/assets/18/font/labelleaurore.svg#open_sansregular') format('svg');
+  font-family: 'arbutus_slabregular';
+  src: url('/_ass/v1/font/arbutusslab-regular.eot');
+  src: url('/_ass/v1/font/arbutusslab-regular.eot?#iefix') format('embedded-opentype'), url('/_ass/v1/font/arbutusslab-regular.woff') format('woff'), url('/_ass/v1/font/arbutusslab-regular.ttf') format('truetype'), url('/_ass/v1/font/arbutusslab-regular.svg#arbutus_slabregular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'opensans';
-  src: url('/assets/18/font/opensans-regular.eot');
-  src: url('/assets/18/font/opensans-regular.eot?#iefix') format('embedded-opentype'), url('/assets/18/font/opensans-regular.woff') format('woff'), url('/assets/18/font/opensans-regular.ttf') format('truetype'), url('/assets/18/font/opensans-regular.svg#open_sansregular') format('svg');
+  src: url('/_ass/v1/font/opensans-regular.eot');
+  src: url('/_ass/v1/font/opensans-regular.eot?#iefix') format('embedded-opentype'), url('/_ass/v1/font/opensans-regular.woff') format('woff'), url('/_ass/v1/font/opensans-regular.ttf') format('truetype'), url('/_ass/v1/font/opensans-regular.svg#open_sansregular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'opensans';
-  src: url('/assets/18/font/opensans-semibold.eot');
-  src: url('/assets/18/font/opensans-semibold.eot?#iefix') format('embedded-opentype'), url('/assets/18/font/opensans-semibold.woff') format('woff'), url('/assets/18/font/opensans-semibold.ttf') format('truetype'), url('/assets/18/font/opensans-semibold.svg#open_sansregular') format('svg');
+  src: url('/_ass/v1/font/opensans-semibold.eot');
+  src: url('/_ass/v1/font/opensans-semibold.eot?#iefix') format('embedded-opentype'), url('/_ass/v1/font/opensans-semibold.woff') format('woff'), url('/_ass/v1/font/opensans-semibold.ttf') format('truetype'), url('/_ass/v1/font/opensans-semibold.svg#open_sansregular') format('svg');
   font-weight: bold;
   font-style: normal;
 }
-@font-face {
-  font-family: 'ptsans';
-  src: url('/assets/18/font/ptsans-bold.eot');
-  src: url('/assets/18/font/ptsans-bold.eot?#iefix') format('embedded-opentype'), url('/assets/18/font/ptsans-bold.woff') format('woff'), url('/assets/18/font/ptsans-bold.ttf') format('truetype'), url('/assets/18/font/ptsans-bold.svg#open_sans_condensedbold') format('svg');
-  font-weight: bold;
-  font-style: normal;
-}
-
 body,
 div,
 h1,
@@ -139,23 +124,21 @@ pre {
   white-space: pre;
 }
 body {
-  color: #444444;
+  color: #444;
   font-family: 'opensans', 'Helvetica Neue', 'sans serif';
   font-weight: normal;
   margin: 0 auto;
-  padding: 0 1rem 1.75rem;
-  max-width: 33rem;
-  text-rendering: optimizeLegibility;
+  max-width: 60rem;
 }
 a {
-  color: #ff4f00;
+  color: #23397A;
   text-decoration: none;
 }
 a:hover {
-  color: #888888;
+  color: #888;
 }
 time {
-  color: #aaaaaa;
+  color: #aaa;
   display: block;
   font-size: 0.875rem;
   line-height: 1.75rem;
@@ -163,25 +146,42 @@ time {
   text-align: center;
 }
 footer {
-  color: #aaaaaa;
+  clear: both;
+  color: #aaa;
   font-size: 0.875rem;
   line-height: 1.75rem;
+  padding: 2rem;
   text-align: center;
+}
+header #logo {
+  background: url(/_ass/v1/image/logo.png) no-repeat;
+  display: inline-block;
+  height: 2.5rem;
+  margin: 2rem 0 1rem;
+  text-indent: -999rem;
+  width: 30rem;
+}
+header h1 {
+  float: left;
+}
+header .motto {
+  background: #222;
+  color: #fff;
+  float: right;
+  font-size: 0.75rem;
+  margin-top: 2rem;
+  padding: 0.25rem 1rem;
 }
 h1,
 h2,
 h3 {
-  color: #444444;
-  font-family: 'ptsans', 'Helvetica Neue', 'sans serif';
+  color: #222;
+  font-family: 'arbutus_slabregular', 'serif';
   line-height: 1.75rem;
 }
 h1 {
-  background: #f7f7f7;
-  border-bottom: 0.0625rem solid #eeeeee;
   font-size: 1.5rem;
-  margin-bottom: 1.6875rem;
-  padding: 1rem 0 0.75rem;
-  text-align: center;
+  padding: 0.75rem 0 1rem;
 }
 h2 {
   font-size: 1.5rem;
@@ -225,8 +225,8 @@ p + ol {
   margin: -0.5rem 0 2.25rem;
 }
 blockquote {
-  border-left: 0.1875rem solid #ff4f00;
-  color: #888888;
+  border-left: 0.1875rem solid #222;
+  color: #444;
   font-size: 1rem;
   padding-left: 1.5rem;
 }
@@ -236,16 +236,16 @@ blockquote ul {
   margin: 0;
 }
 code {
-  color: #888888;
+  color: #888;
   display: inline;
-  font-family: 'inconsolata', monospace;
+  font-family: monospace;
   line-height: 1rem;
   margin: 0 0.125rem;
   padding: 0.125rem 0.25rem;
 }
 pre {
   background: #f7f7f7;
-  border-left: 0.1875rem solid #ff4f00;
+  border-left: 0.1875rem solid #222;
   display: block;
   margin-bottom: 1.75rem;
   overflow: auto;
@@ -262,13 +262,13 @@ pre ul {
   margin-bottom: 0;
 }
 table {
-  background: #eeeeee;
+  background: #eee;
   font-family: 'Andale Mono', 'Courier New', Courier, monospace;
   font-size: 0.875rem;
 }
 td,
 th {
-  border: 0.0625rem solid #888888;
+  border: 0.0625rem solid #888;
   padding: 0.875rem 0.25rem 0.8125rem;
   text-align: center;
   width: 1%;
@@ -286,45 +286,30 @@ sup {
   margin-top: -0.75rem;
   vertical-align: middle;
 }
+#home section {
+  float: left;
+  padding-right: 4rem;
+  width: 40rem;
+}
 #home aside {
-  background: #009b77;
-  color: #ffffff;
-  line-height: 1.75rem;
-  margin: 0 -1rem 1.75rem;
-  padding: 1.75rem 1rem;
+  background: #f7f7f7;
+  float: left;
+  padding: 0 2rem;
+  width: 12rem;
 }
-#home h1 {
-  background: none;
-  border-bottom: none;
-  font-family: 'labelleaurore';
-  font-size: 3rem;
-  line-height: 3.5rem;
-  margin: 0.25rem 0 -0.25rem;
-  padding: 0;
+#post section {
+  float: left;
+  padding-right: 4rem;
+  width: 40rem;
 }
-#home h1 span {
-  padding-right: 0.25rem;
+#post aside {
+  background: #f7f7f7;
+  float: left;
+  padding: 0 2rem;
+  width: 12rem;
 }
 @media screen and (min-width: 60em) {
-  body {
-    border-left: 0.0625rem solid #009b77;
-    padding: 3.5rem 3rem;
-  }
-  h1,
-  time,
-  footer {
-    text-align: left;
-  }
   h1 {
-    margin-left: -3rem;
-    margin-right: -3rem;
-    padding-left: 3rem;
-    padding-right: 3rem;
-  }
-}
-@media screen and (min-width: 35em) {
-  #home aside {
-    margin: 0 -3rem 1.75rem;
-    padding: 1.75rem 3rem;
+    text-align: left;
   }
 }

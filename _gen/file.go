@@ -8,13 +8,13 @@ import (
 
 // Create a new directory
 func CreateDirectory(path string) {
-	os.Mkdir(path, 0750)
+	os.Mkdir(path, 0777)
 	fmt.Println("gloggi.write", path)
 }
 
 // Create a new file
 func CreateFile(path string, output []byte) {
-	ioutil.WriteFile(path, output, 0750)
+	ioutil.WriteFile(path, output, 0777)
 	fmt.Println("gloggi.write", path)
 }
 

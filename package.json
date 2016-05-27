@@ -1,0 +1,20 @@
+{
+  "name": "TPEGulp",
+  "version": "1.0.0",
+  "description": "Gulp build",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-include": "^1.1.1",
+    "gulp-less": "^3.0.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-uglify": "^1.2.0",
+    "gulp-uglifycss": "^1.0.4",
+    "gulp-util": "^3.0.5"
+  },
+  "scripts": {},
+  "author": "tpe",
+  "license": "ISC"
+}
