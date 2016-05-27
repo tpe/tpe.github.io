@@ -2,7 +2,7 @@ package main
 
 import (
 	"bytes"
-	"github.com/russross/blackfriday"
+	// "github.com/russross/blackfriday"
 	"path"
 	"strings"
 )
@@ -51,7 +51,8 @@ func (p *Post) SetSlugFromFilename(pathname string) {
 // Set the post html by first converting the markdown to html and then
 // decorating the result with the base post template.
 func (p *Post) SetHtmlFromMarkdown(html []byte, md []byte) {
-	text := blackfriday.MarkdownBasic(md)
+	// text := blackfriday.MarkdownBasic(md)
+	text := md
 
 	html = bytes.Replace(html, []byte("{{ name }}"), []byte(p.name), -1)
 	html = bytes.Replace(html, []byte("{{ text }}"), []byte(text), -1)
