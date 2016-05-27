@@ -11,4 +11,50 @@
         padding: 0 2rem;
         width: 12rem;
     }
+
+    .postframe {
+        border: 0.1875rem solid @text;
+        height: 20rem;
+        margin-bottom: 2rem;
+        overflow: hidden;
+        position: relative;
+        z-index: 1;
+    }
+
+    .postimage {
+        background: fadeout(#fefeee, 75%);
+        bottom: 0;
+        height: 100%;
+        left: 0;
+        right: 0;
+        top: 0;
+        position: absolute;
+        width: 100%;
+        z-index: 1000;
+    }
+
+    .posttext {
+        background: #fefeee url(/_ass/v1/image/guide.png);
+        border-right: 0.0625rem dashed @dull;
+        font-family: times;
+        padding-left: 0.5rem;
+        -moz-transform: rotate(-1deg);
+        -ms-transform: rotate(-1deg);
+        -o-transform: rotate(-1deg);
+        -webkit-transform: rotate(-1deg);
+        transform: rotate(-1deg);
+    }
+
+    .more {
+        background: @black;
+        color: @white;
+        display: block;
+        font-size: 0.75rem;
+        margin: -3rem 0 2rem 2rem;
+        padding: 0.5rem 1rem;
+        position: relative;
+        text-align: center;
+        width: 21rem;
+        z-index: 1001;
+    }
 }

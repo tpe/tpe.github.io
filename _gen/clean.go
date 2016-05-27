@@ -14,7 +14,4 @@ func ProcessClean(dir string) {
 			RemoveDirectory(path.Join(dir, info.Name()))
 		}
 	}
-
-	// STEP 2 Remove home page
-	RemoveFile(path.Join(dir, "index.html"))
 }

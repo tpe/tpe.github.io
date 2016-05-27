@@ -297,6 +297,9 @@ sup {
   padding: 0 2rem;
   width: 12rem;
 }
+#home .topic {
+  clear: both;
+}
 #post section {
   float: left;
   padding-right: 4rem;
@@ -307,6 +310,78 @@ sup {
   float: left;
   padding: 0 2rem;
   width: 12rem;
+}
+#post .postframe {
+  border: 0.1875rem solid #444;
+  height: 20rem;
+  margin-bottom: 2rem;
+  overflow: hidden;
+  position: relative;
+  z-index: 1;
+}
+#post .postimage {
+  background: rgba(254, 254, 238, 0.25);
+  bottom: 0;
+  height: 100%;
+  left: 0;
+  right: 0;
+  top: 0;
+  position: absolute;
+  width: 100%;
+  z-index: 1000;
+}
+#post .posttext {
+  background: #fefeee url(/_ass/v1/image/guide.png);
+  border-right: 0.0625rem dashed #ddd;
+  font-family: times;
+  padding-left: 0.5rem;
+  -moz-transform: rotate(-1deg);
+  -ms-transform: rotate(-1deg);
+  -o-transform: rotate(-1deg);
+  -webkit-transform: rotate(-1deg);
+  transform: rotate(-1deg);
+}
+#post .more {
+  background: #222;
+  color: #fff;
+  display: block;
+  font-size: 0.75rem;
+  margin: -3rem 0 2rem 2rem;
+  padding: 0.5rem 1rem;
+  position: relative;
+  text-align: center;
+  width: 21rem;
+  z-index: 1001;
+}
+.book {
+  border-top: 0.1875rem solid #222;
+  border-bottom: 0.1875rem solid #222;
+  margin-bottom: 2rem;
+  overflow: hidden;
+  padding: 1rem 0 0;
+}
+.book .cover {
+  float: left;
+  margin-right: 2rem;
+}
+.book .blurb {
+  float: left;
+  width: 25rem;
+}
+.book .blurb h2 {
+  padding: 0.25rem 0 0.5rem;
+}
+.book .blurb p {
+  line-height: 1.5rem;
+  margin-bottom: 0;
+}
+.book .buy {
+  float: right;
+  margin-top: 0.5rem;
+  text-align: center;
+}
+.book .buy p {
+  font-size: 0.5rem;
 }
 @media screen and (min-width: 60em) {
   h1 {
