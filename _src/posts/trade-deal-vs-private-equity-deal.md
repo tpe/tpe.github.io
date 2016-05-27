@@ -1,0 +1,1 @@
+<p>For businesses considering their options for accelerated growth, they tend to gravitate towards proposals that contain a financial and strategic component. With this in mind, the most compelling expansion deals are usually from trade investors and private equity firms. In this post, I&#8217;m going to compare these offerings in a formulaic manner.</p>
