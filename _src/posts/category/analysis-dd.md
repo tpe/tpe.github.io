@@ -1,6 +1,5 @@
 <ol><li><h2><a
 href="http://www.theprivateequiteer.com/calculate-working-capital/">How To Calculate Working Capital</a></h2></li><li><h2><a
-href="http://www.theprivateequiteer.com/due-diligence-limited-partne-lp/">Due Diligence for a Limited Partner (LP)</a></h2></li><li><h2><a
 href="http://www.theprivateequiteer.com/enterprise-value-working-capital/">Does Enterprise Value Include Working Capital?</a></h2></li><li><h2><a
 href="http://www.theprivateequiteer.com/private-equity-returns/">How to Succeed in a Private Equity Firm</a></h2></li><li><h2><a
 href="http://www.theprivateequiteer.com/working-capital-asset-sale/">Working Capital: Preparing for Asset Sale</a></h2></li><li><h2><a
@@ -17,12 +16,10 @@ href="http://www.theprivateequiteer.com/working-capital-cash-positive-negative/"
 href="http://www.theprivateequiteer.com/working-capital-drivers/">Working Capital Series: Drivers</a></h2></li><li><h2><a
 href="http://www.theprivateequiteer.com/working-capital-calculations-references/">Working Capital Series: Calculation and References</a></h2></li><li><h2><a
 href="http://www.theprivateequiteer.com/working-capital-introduction/">Working Capital Series: Introduction</a></h2></li><li><h2><a
-href="http://www.theprivateequiteer.com/due-diligence-confidentiality/">Due Diligence Confidentiality: Don&#8217;t Abuse It</a></h2></li><li><h2><a
 href="http://www.theprivateequiteer.com/capex-capital-expenditure/">How to Calculate CAPEX from Financial Statements</a></h2></li><li><h2><a
 href="http://www.theprivateequiteer.com/market-due-diligence-private-equity/">Market Due Diligence in Private Equity</a></h2></li><li><h2><a
 href="http://www.theprivateequiteer.com/calculatemarket-size/">Calculate Market Size in Private Equity</a></h2></li><li><h2><a
 href="http://www.theprivateequiteer.com/ebitda-vs-ebit/">When to Use EBITDA vs EBIT</a></h2></li><li><h2><a
-href="http://www.theprivateequiteer.com/due-diligence-private-equity/">Due Diligence in Private Equity: Superficial?</a></h2></li><li><h2><a
 href="http://www.theprivateequiteer.com/correlation-vs-causation/">Private Equity Analysis: Correlation vs Causation</a></h2></li><li><h2><a
 href="http://www.theprivateequiteer.com/accounting-101/">Accounting 101: Profit &#038; Loss</a></h2></li><li><h2><a
 href="http://www.theprivateequiteer.com/private-equity-valuation/">Private Equity Valuation: EBITDAC vs EBITDA vs NPAT vs FCF</a></h2></li><li><h2><a

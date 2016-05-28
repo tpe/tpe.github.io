@@ -18,7 +18,6 @@ href="http://www.theprivateequiteer.com/private-equity-success/">Private Equity 
 href="http://www.theprivateequiteer.com/private-equity-consulting/">Private Equity Consulting: Keep a Safe Distance from Investees</a></h2></li><li><h2><a
 href="http://www.theprivateequiteer.com/team-dynamics-private-equity-firms/">Team Dynamics in a Private Equity Firms</a></h2></li><li><h2><a
 href="http://www.theprivateequiteer.com/private-equity-team-communication/">Private Equity Team Communication</a></h2></li><li><h2><a
-href="http://www.theprivateequiteer.com/due-diligence-confidentiality/">Due Diligence Confidentiality: Don&#8217;t Abuse It</a></h2></li><li><h2><a
 href="http://www.theprivateequiteer.com/private-equity-firms-single-owner/">Stay Clear of Single-Owner Private Equity Firms</a></h2></li><li><h2><a
 href="http://www.theprivateequiteer.com/human-behavior-private-equity/">Human Behaviour in Private Equity</a></h2></li><li><h2><a
 href="http://www.theprivateequiteer.com/carried-interest-private-equity-negotiatin/">Carried Interest: Show Me the Carry, Part II</a></h2></li><li><h2><a
