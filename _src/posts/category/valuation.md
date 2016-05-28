@@ -1,0 +1,25 @@
+<ol><li><h2><a
+href="http://www.theprivateequiteer.com/accretion-dilution/">Accretion vs Dilution: Analysis in Private Equity</a></h2></li><li><h2><a
+href="http://www.theprivateequiteer.com/enterprise-value-issue-equity-stoc/">Enterprise Value: After You Issue Equity?</a></h2></li><li><h2><a
+href="http://www.theprivateequiteer.com/enterprise-value-working-capital/">Does Enterprise Value Include Working Capital?</a></h2></li><li><h2><a
+href="http://www.theprivateequiteer.com/working-capital-management-improvements/">Working Capital Series: Management and Improvements</a></h2></li><li><h2><a
+href="http://www.theprivateequiteer.com/pre-money-vs-post-money-valuation/">Pre-Money vs Post-Money Valuation</a></h2></li><li><h2><a
+href="http://www.theprivateequiteer.com/private-equity-earn-out-ratchet/">Earn Out Ratchets in Practice II</a></h2></li><li><h2><a
+href="http://www.theprivateequiteer.com/private-equity-ratchet/">Private Equity Ratchets in Practice</a></h2></li><li><h2><a
+href="http://www.theprivateequiteer.com/change-in-working-capital-valuation/">Working Capital Series: Change in Working Capital Valuation</a></h2></li><li><h2><a
+href="http://www.theprivateequiteer.com/capex-capital-expenditure/">How to Calculate CAPEX from Financial Statements</a></h2></li><li><h2><a
+href="http://www.theprivateequiteer.com/ebitda-vs-ebit/">When to Use EBITDA vs EBIT</a></h2></li><li><h2><a
+href="http://www.theprivateequiteer.com/quick-and-dirty-business-valuation/">Quick and Dirty Business Valuation</a></h2></li><li><h2><a
+href="http://www.theprivateequiteer.com/earn-out/">Earn Out: Bridging the Value Gap in Private Equity</a></h2></li><li><h2><a
+href="http://www.theprivateequiteer.com/plus-stock-at-value/">The &#8220;Plus Stock at Value&#8221; Phenomenon</a></h2></li><li><h2><a
+href="http://www.theprivateequiteer.com/negative-equity-value-positive-cash-flow/">Negative Equity Value, but Positive Cash Flow</a></h2></li><li><h2><a
+href="http://www.theprivateequiteer.com/negative-equity-positive-ebitda/">Negative Equity, Positive EBITDA in Private Equity</a></h2></li><li><h2><a
+href="http://www.theprivateequiteer.com/private-equity-valuation/">Private Equity Valuation: EBITDAC vs EBITDA vs NPAT vs FCF</a></h2></li><li><h2><a
+href="http://www.theprivateequiteer.com/capex-free-cash-flow/">How Does CAPEX Affect FCF (Free Cash Flow)</a></h2></li><li><h2><a
+href="http://www.theprivateequiteer.com/what-is-capex/">What is CAPEX (Capital Expenditure)?</a></h2></li><li><h2><a
+href="http://www.theprivateequiteer.com/private-equity-deal-multiples/">Private Equity Deal Multiples: The Drivers of Valuation</a></h2></li><li><h2><a
+href="http://www.theprivateequiteer.com/earnings-multiple-valuation-method/">How to Use the Earnings Multiple Valuation Method</a></h2></li><li><h2><a
+href="http://www.theprivateequiteer.com/valuation-methods/">Valuation Methods in Private Equity</a></h2></li><li><h2><a
+href="http://www.theprivateequiteer.com/private-equity-deal-killers/">Private Equity Deal Killers</a></h2></li><li><h2><a
+href="http://www.theprivateequiteer.com/trade-deal-vs-private-equity-deal/">Trade Deal vs Private Equity Deal</a></h2></li><li><h2><a
+href="http://www.theprivateequiteer.com/private-equity-deal-structure/">Private Equity Deal Structure</a></h2></li></ol>
